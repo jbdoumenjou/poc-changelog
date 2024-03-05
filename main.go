@@ -1,8 +1,7 @@
-package poc_changelog
+package main
 
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World!!!")
-	fmt.Println("This is a test, again")
+	fmt.Println("Hello, World!")
 }
