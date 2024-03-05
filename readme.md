@@ -88,6 +88,38 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PR_READ_TOKEN }}
 ```
 
+## Release Please
+
+[Release-please](https://github.com/googleapis/release-please) can be used as a [CLI]() or as a [GitHub Action](https://github.com/google-github-actions/release-please-action).
+
+In both cases, we need to create a token to access the repository, write content and pull request.
+
+### Create a token to access the repository
+
+The action needs a token to access the repository.
+* Create a fine grain token https://github.com/settings/personal-access-tokens/new
+  * In the `New fine-grained personal access token` form:
+    * Define a name for the token
+    * Define an expiration date (the shorter, the safer)
+    * Set a description
+  * In `Repository access`:
+    * Select the specific repository
+  * In `Permissions`->`Repository Permissions`:
+    * Add Contents Read-Write
+    * Add Pull Request Read-Write
+    * It will add the Metadata Read-Only
+  * Click on `Generate token`
+  * Copy the token
+* Add it to your repository secrets
+  * Go to your repository
+  * Click on `Settings`
+  * Click on the  `Secrets and variables`->`Actions` left menu
+  * Click on `New repository secret`
+  * Set the secret Name, in our example `MY_RELEASE_PLEASE_TOKEN`
+  * Paste the token in the `Secret` field
+  * Click on `Add secret`
+* Now the secret can be referenced in the workflow file
+
 ## How to Use This Repository
 
 Clone this repository and experiment with the provided GitHub Actions workflows.
