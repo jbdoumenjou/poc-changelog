@@ -135,6 +135,11 @@ Then, if you add a new commit is added with a minor label, the version of the PR
 
 The release-please action will keep only the commit content to generate the changelog.
 
+### Limitations
+
+The Changelog content is re-generated at each commit on target branch.
+That means that we need to made manual modification just before merging this PR. 
+
 ```yaml
 
 ### Troubleshooting
