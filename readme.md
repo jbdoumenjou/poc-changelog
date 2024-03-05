@@ -128,6 +128,11 @@ If you use a commit label like:
 * `feat(something): text`, the next version will be a minor.
 * `[action]!: something`, the `̀!` indicates a breaking change, the next version will be a major.  
 
+The release-please PR will be updated each time a new commit is pushed to the target branch (main in our repo).
+The version will be updated accordingly to the commit labels.
+If the first commit is merge with a patch label, the next version will be a patch.
+Then, if you add a new commit is added with a minor label, the version of the PR will be set to minor as well.
+
 ```yaml
 
 ### Troubleshooting
