@@ -120,6 +120,25 @@ The action needs a token to access the repository.
   * Click on `Add secret`
 * Now the secret can be referenced in the workflow file
 
+### Test the Release Please Action
+
+If you use a commit label like:
+* `chore(something): text`, this commit will not be taken into account for the release (TODO: configure).
+* `fix(something): text`, the next version will be a patch.
+* `feat(something): text`, the next version will be a minor.
+* `[action]!: something`, the `̀!` indicates a breaking change, the next version will be a major.  
+
+```yaml
+
+### Troubleshooting
+
+If you encounter issues with the Release Please Action,
+ensure that the token has the necessary permissions to create pull requests and write to the repository.
+
+If the action fails to create a pull request, verify
+* That a previous PR with a label `autorelease: pending` is not open
+* That the commit label follows the semantic versioning rules
+
 ## How to Use This Repository
 
 Clone this repository and experiment with the provided GitHub Actions workflows.
