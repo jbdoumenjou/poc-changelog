@@ -133,6 +133,8 @@ The version will be updated accordingly to the commit labels.
 If the first commit is merge with a patch label, the next version will be a patch.
 Then, if you add a new commit is added with a minor label, the version of the PR will be set to minor as well.
 
+The release-please action will keep only the commit content to generate the changelog.
+
 ```yaml
 
 ### Troubleshooting
