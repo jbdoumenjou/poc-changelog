@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/jbdoumenjou/poc-changelog/compare/v1.0.0...v2.0.0) (2024-03-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* a breaking fix ([#6](https://github.com/jbdoumenjou/poc-changelog/issues/6))
+
+### Bug Fixes
+
+* a breaking fix ([#6](https://github.com/jbdoumenjou/poc-changelog/issues/6)) ([de9abd1](https://github.com/jbdoumenjou/poc-changelog/commit/de9abd1deae7c48e586083d779cf191b9261fc32))
+
 ## 1.0.0 (2024-03-05)
 
 
