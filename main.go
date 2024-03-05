@@ -1,4 +1,4 @@
-package poc_changelog
+package main
 
 import "fmt"
 
