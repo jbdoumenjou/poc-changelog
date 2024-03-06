@@ -1,0 +1,25 @@
+{
+  "name": "poc-changelog",
+  "version": "3.0.0",
+  "description": "POC to play with semantic commit and release-please",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbdoumenjou/poc-changelog.git"
+  },
+  "keywords": [
+    "release",
+    "semantic",
+    "commit"
+  ],
+  "author": "jbd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbdoumenjou/poc-changelog/issues"
+  },
+  "homepage": "https://github.com/jbdoumenjou/poc-changelog#readme"
+}
