@@ -164,6 +164,30 @@ build(backend): improve build
 ci(t42): improve
  ```
 
+This will generate a changelog like:
+
+```markdown
+### Features
+
+* **api:** add new feature ([#15](https://github.com/jbdoumenjou/poc-changelog/issues/15)) ([855c471](https://github.com/jbdoumenjou/poc-changelog/commit/855c4718a66168734719e37d9c2684362df5cba7))
+* **f36:** add new feature2 ([855c471](https://github.com/jbdoumenjou/poc-changelog/commit/855c4718a66168734719e37d9c2684362df5cba7))
+
+
+### Bug Fixes
+
+* **api:** resolve a bug ([855c471](https://github.com/jbdoumenjou/poc-changelog/commit/855c4718a66168734719e37d9c2684362df5cba7))
+
+
+### Performance Improvements
+
+* **computing:** improve performance ([855c471](https://github.com/jbdoumenjou/poc-changelog/commit/855c4718a66168734719e37d9c2684362df5cba7))
+
+
+### Reverts
+
+* **api:** revert a change ([855c471](https://github.com/jbdoumenjou/poc-changelog/commit/855c4718a66168734719e37d9c2684362df5cba7))
+```
+
 
 ### Limitations
 
