@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/jbdoumenjou/poc-changelog/issues"
   },
-  "homepage": "https://github.com/jbdoumenjou/poc-changelog#readme"
+  "homepage": "https://github.com/jbdoumenjou/poc-changelog#readme",
   "dependencies": {
     "eslint-plugin-react": "7.33"
   }
