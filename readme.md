@@ -135,12 +135,40 @@ Then, if you add a new commit is added with a minor label, the version of the PR
 
 The release-please action will keep only the commit content to generate the changelog.
 
+Let's try several commits with different labels and see the result.
+Add the following commit messages to a commit on a branch and merge it to the main branch.
+
+```shell
+feat(api): add new feature
+
+feature(f36): add new feature2
+
+fix(api): resolve a bug
+
+perf(computing): improve performance
+
+revert(api): revert a change
+
+docs(api): update documentation
+
+style(api): improve style
+
+chore(api): drop support for Node 6
+
+refactor(api): refactor code
+
+test(integration): add tests
+
+build(backend): improve build
+
+ci(t42): improve
+ ```
+
+
 ### Limitations
 
 The Changelog content is re-generated at each commit on target branch.
 That means that we need to made manual modification just before merging this PR. 
-
-```yaml
 
 ### Troubleshooting
 
