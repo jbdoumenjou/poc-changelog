@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.0](https://github.com/jbdoumenjou/poc-changelog/compare/v3.0.0...v3.1.0) (2024-03-06)
+
+
+### Features
+
+* create node project ([#18](https://github.com/jbdoumenjou/poc-changelog/issues/18)) ([97712e2](https://github.com/jbdoumenjou/poc-changelog/commit/97712e278f7920077b18314f6ffc171c25531cd0))
+* **doc:** update the readme ([#16](https://github.com/jbdoumenjou/poc-changelog/issues/16)) ([bd69f19](https://github.com/jbdoumenjou/poc-changelog/commit/bd69f19fce74d6a5611994ae80c64c184a310b41))
+
 ## [3.0.0](https://github.com/jbdoumenjou/poc-changelog/compare/v2.0.0...v3.0.0) (2024-03-06)
 
 
