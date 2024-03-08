@@ -1,5 +1,25 @@
 # Changelog
 
+## [3.1.0](https://github.com/jbdoumenjou/poc-changelog/compare/v3.0.0...v3.1.0) (2024-03-08)
+
+
+### Features
+
+* **ci:** add npm deployment ([#27](https://github.com/jbdoumenjou/poc-changelog/issues/27)) ([bc6e892](https://github.com/jbdoumenjou/poc-changelog/commit/bc6e89217fd24254ef6b6fd8564ea508121b9273))
+* create node project ([#18](https://github.com/jbdoumenjou/poc-changelog/issues/18)) ([97712e2](https://github.com/jbdoumenjou/poc-changelog/commit/97712e278f7920077b18314f6ffc171c25531cd0))
+* **doc:** update the readme ([#16](https://github.com/jbdoumenjou/poc-changelog/issues/16)) ([bd69f19](https://github.com/jbdoumenjou/poc-changelog/commit/bd69f19fce74d6a5611994ae80c64c184a310b41))
+* play with dependencies versions ([#23](https://github.com/jbdoumenjou/poc-changelog/issues/23)) ([09b1412](https://github.com/jbdoumenjou/poc-changelog/commit/09b14127147080faff1f1b11adc7717e5bd81eab))
+* **realease-please:** set a node strategy ([#19](https://github.com/jbdoumenjou/poc-changelog/issues/19)) ([8e679e6](https://github.com/jbdoumenjou/poc-changelog/commit/8e679e6f7d08d8b901610ce90f997964d966068a))
+* trigger dependabot ([#21](https://github.com/jbdoumenjou/poc-changelog/issues/21)) ([e716eb2](https://github.com/jbdoumenjou/poc-changelog/commit/e716eb27847b5eac153b7d786e86adfb397f6008))
+
+
+### Bug Fixes
+
+* change dependabot commit prefix ([#26](https://github.com/jbdoumenjou/poc-changelog/issues/26)) ([c975263](https://github.com/jbdoumenjou/poc-changelog/commit/c9752631b1374abfc611bd9f61d36213e961a3f9))
+* **dependabot:** bump eslint-plugin-react from 6.10.3 to 7.34.0 ([#25](https://github.com/jbdoumenjou/poc-changelog/issues/25)) ([67be297](https://github.com/jbdoumenjou/poc-changelog/commit/67be29701d3f43164de4608c2a7e04184cb98687))
+* **dependabot:** bump shelljs and eslint-plugin-react ([#24](https://github.com/jbdoumenjou/poc-changelog/issues/24)) ([4197c10](https://github.com/jbdoumenjou/poc-changelog/commit/4197c106cae0a09b1b8834432b59f3f304e44fdc))
+* dependencies ([#22](https://github.com/jbdoumenjou/poc-changelog/issues/22)) ([c2d3a16](https://github.com/jbdoumenjou/poc-changelog/commit/c2d3a16a6402edf35ccebebee9aa551e18f6accf))
+
 ## [3.0.0](https://github.com/jbdoumenjou/poc-changelog/compare/v2.0.0...v3.0.0) (2024-03-06)
 
 
