@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.3](https://github.com/jbdoumenjou/poc-changelog/compare/v3.1.2...v3.1.3) (2024-03-08)
+
+
+### Bug Fixes
+
+* clean packages ([#32](https://github.com/jbdoumenjou/poc-changelog/issues/32)) ([ee6008b](https://github.com/jbdoumenjou/poc-changelog/commit/ee6008bfe37fee3fe97c74850e51dc6b6da4655f))
+* update package-lock.json ([#33](https://github.com/jbdoumenjou/poc-changelog/issues/33)) ([e85dbac](https://github.com/jbdoumenjou/poc-changelog/commit/e85dbac3178de3093888375fdbb68bcf796a0aeb))
+
 ## [3.1.2](https://github.com/jbdoumenjou/poc-changelog/compare/v3.1.1...v3.1.2) (2024-03-08)
 
 
