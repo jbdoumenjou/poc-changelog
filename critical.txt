@@ -1,0 +1,1 @@
+Make a breaking change to the API, and bump the major version number.
