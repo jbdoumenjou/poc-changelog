@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.4](https://github.com/jbdoumenjou/poc-changelog/compare/v3.1.3...v3.1.4) (2024-03-08)
+
+
+### Bug Fixes
+
+* **doc:** clean the readme ([#35](https://github.com/jbdoumenjou/poc-changelog/issues/35)) ([1a2cdc4](https://github.com/jbdoumenjou/poc-changelog/commit/1a2cdc464c00f1f6b01e6c9c8d7306c9fe2bb6b6))
+
 ## [3.1.3](https://github.com/jbdoumenjou/poc-changelog/compare/v3.1.2...v3.1.3) (2024-03-08)
 
 
