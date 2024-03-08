@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/jbdoumenjou/poc-changelog/issues"
   },
-  "homepage": "https://github.com/jbdoumenjou/poc-changelog#readme"
+  "homepage": "https://github.com/jbdoumenjou/poc-changelog#readme",
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
 }
