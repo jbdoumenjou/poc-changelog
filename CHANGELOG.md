@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.1](https://github.com/jbdoumenjou/poc-changelog/compare/v3.2.0...v3.2.1) (2024-03-08)
+
+
+### Bug Fixes
+
+* remove deprecated dependency ([#40](https://github.com/jbdoumenjou/poc-changelog/issues/40)) ([a39caf4](https://github.com/jbdoumenjou/poc-changelog/commit/a39caf4c463081a45538862887ad7d5cca5945cb))
+
 ## [3.2.0](https://github.com/jbdoumenjou/poc-changelog/compare/v3.1.4...v3.2.0) (2024-03-08)
 
 
