@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.2](https://github.com/jbdoumenjou/poc-changelog/compare/v3.1.1...v3.1.2) (2024-03-08)
+
+
+### Bug Fixes
+
+* node dependencies ([#30](https://github.com/jbdoumenjou/poc-changelog/issues/30)) ([c1e7556](https://github.com/jbdoumenjou/poc-changelog/commit/c1e75561b215282e2e648f581ef9716adb5a9733))
+* npm package ([c1e7556](https://github.com/jbdoumenjou/poc-changelog/commit/c1e75561b215282e2e648f581ef9716adb5a9733))
+
 ## [3.1.1](https://github.com/jbdoumenjou/poc-changelog/compare/v3.1.0...v3.1.1) (2024-03-08)
 
 
