@@ -191,8 +191,6 @@ This will generate a changelog like:
 All the configuration is done in the `.github/workflows/release-please.yml` file.
 For advanced configuration, please check the [configfile doc](https://github.com/googleapis/release-please/blob/main/docs/manifest-releaser.md#configfile)
 
-```yaml
-
 ### Limitations
 
 The Changelog content is re-generated at each commit on target branch.
