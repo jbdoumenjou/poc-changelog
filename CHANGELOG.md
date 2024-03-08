@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.2.0](https://github.com/jbdoumenjou/poc-changelog/compare/v3.1.4...v3.2.0) (2024-03-08)
+
+
+### Features
+
+* add sum function ([#37](https://github.com/jbdoumenjou/poc-changelog/issues/37)) ([84f094f](https://github.com/jbdoumenjou/poc-changelog/commit/84f094f39466a749b81aeef6fcfc3856e65d7828))
+
+
+### Bug Fixes
+
+* **dependabot:** bump lodash from 4.0.0 to 4.17.21 ([#39](https://github.com/jbdoumenjou/poc-changelog/issues/39)) ([28bee66](https://github.com/jbdoumenjou/poc-changelog/commit/28bee6689d13067509a36d715a8e1b6aa7cb92f8))
+
 ## [3.1.4](https://github.com/jbdoumenjou/poc-changelog/compare/v3.1.3...v3.1.4) (2024-03-08)
 
 
