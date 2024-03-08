@@ -9,7 +9,7 @@ updates:
       interval: "daily"
     commit-message:
       # Prefix all commit messages with "chore(dependabot): "
-      prefix: "chore(dependabot): "
+      prefix: "fix(dependabot): "
     groups:
       all:
         patterns:
