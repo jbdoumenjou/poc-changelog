@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.1.0](https://github.com/jbdoumenjou/poc-changelog/compare/v4.0.0...v4.1.0) (2024-03-08)
+
+
+### Features
+
+* add something with dependency ([#44](https://github.com/jbdoumenjou/poc-changelog/issues/44)) ([dea9365](https://github.com/jbdoumenjou/poc-changelog/commit/dea9365311fd4adf8b868f51f059eca684af89f3))
+
+
+### Bug Fixes
+
+* **dependabot:** bump lodash from 4.0.0 to 4.17.21 ([#48](https://github.com/jbdoumenjou/poc-changelog/issues/48)) ([293d90e](https://github.com/jbdoumenjou/poc-changelog/commit/293d90e998d2e71bc300ca21261c4cdb0a0e5ac4))
+
 ## [4.0.0](https://github.com/jbdoumenjou/poc-changelog/compare/v3.2.1...v4.0.0) (2024-03-08)
 
 
