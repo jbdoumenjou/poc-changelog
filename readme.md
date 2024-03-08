@@ -188,6 +188,10 @@ This will generate a changelog like:
 * **api:** revert a change ([855c471](https://github.com/jbdoumenjou/poc-changelog/commit/855c4718a66168734719e37d9c2684362df5cba7))
 ```
 
+All the configuration is done in the `.github/workflows/release-please.yml` file.
+For advanced configuration, please check the [configfile doc](https://github.com/googleapis/release-please/blob/main/docs/manifest-releaser.md#configfile)
+
+```yaml
 
 ### Limitations
 
