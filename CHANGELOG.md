@@ -1,5 +1,22 @@
 # Changelog
 
+## [4.0.0](https://github.com/jbdoumenjou/poc-changelog/compare/v3.2.1...v4.0.0) (2024-03-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* critical breaking change ([#43](https://github.com/jbdoumenjou/poc-changelog/issues/43))
+
+### Features
+
+* **f42:** set a better message ([#42](https://github.com/jbdoumenjou/poc-changelog/issues/42)) ([c355256](https://github.com/jbdoumenjou/poc-changelog/commit/c355256083475f3ba388b1ee659c6f9709a6fdfe))
+
+
+### Bug Fixes
+
+* critical breaking change ([#43](https://github.com/jbdoumenjou/poc-changelog/issues/43)) ([11da95d](https://github.com/jbdoumenjou/poc-changelog/commit/11da95d6948b27faf4166847cc5f7513e827ebe8))
+* update the readme ([#45](https://github.com/jbdoumenjou/poc-changelog/issues/45)) ([71ea55f](https://github.com/jbdoumenjou/poc-changelog/commit/71ea55fc27e690c924c55a757fe18ae5f1f090c4))
+
 ## [3.2.1](https://github.com/jbdoumenjou/poc-changelog/compare/v3.2.0...v3.2.1) (2024-03-08)
 
 
