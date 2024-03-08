@@ -215,4 +215,3 @@ Adapt them to fit your project's needs and customize the release process accordi
 Feel free to open issues or pull requests to suggest improvements,
 discuss alternative approaches, or share your experiences with changelog automation.
 This repository serves as a collaborative space for exploring best practices.
-
